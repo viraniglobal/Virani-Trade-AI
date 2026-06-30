@@ -1,2 +1,1 @@
-# Virani-Trade-AI
-Trade App
+# Virani Trade AI
